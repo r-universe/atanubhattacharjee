@@ -18,6 +18,11 @@
 	url = https://github.com/cran/highMLR
 	shallow = true
 	registered = true
+[submodule "jmBIG"]
+	path = jmBIG
+	url = https://github.com/cran/jmBIG
+	shallow = true
+	registered = true
 [submodule "longit"]
 	path = longit
 	url = https://github.com/cran/longit

@@ -1,45 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "afthd"]
 	path = afthd
 	url = https://github.com/cran/afthd
-	shallow = true
-	registered = true
 [submodule "designsize"]
 	path = designsize
 	url = https://github.com/cran/designsize
-	shallow = true
-	registered = true
 [submodule "highMLR"]
 	path = highMLR
 	url = https://github.com/cran/highMLR
-	shallow = true
-	registered = true
 [submodule "jmBIG"]
 	path = jmBIG
 	url = https://github.com/cran/jmBIG
-	shallow = true
-	registered = true
 [submodule "longit"]
 	path = longit
 	url = https://github.com/cran/longit
-	shallow = true
-	registered = true
 [submodule "MIIPW"]
 	path = MIIPW
 	url = https://github.com/cran/MIIPW
-	shallow = true
-	registered = true
 [submodule "QoLMiss"]
 	path = QoLMiss
 	url = https://github.com/cran/QoLMiss
-	shallow = true
-	registered = true
 [submodule "SurvHiDim"]
 	path = SurvHiDim
 	url = https://github.com/cran/SurvHiDim
-	shallow = true
-	registered = true

@@ -2,6 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "MIIPW"]
+	path = MIIPW
+	url = https://github.com/cran/MIIPW
+[submodule "QoLMiss"]
+	path = QoLMiss
+	url = https://github.com/cran/QoLMiss
+[submodule "SurvHiDim"]
+	path = SurvHiDim
+	url = https://github.com/cran/SurvHiDim
 [submodule "afthd"]
 	path = afthd
 	url = https://github.com/cran/afthd
@@ -17,12 +26,3 @@
 [submodule "longit"]
 	path = longit
 	url = https://github.com/cran/longit
-[submodule "MIIPW"]
-	path = MIIPW
-	url = https://github.com/cran/MIIPW
-[submodule "QoLMiss"]
-	path = QoLMiss
-	url = https://github.com/cran/QoLMiss
-[submodule "SurvHiDim"]
-	path = SurvHiDim
-	url = https://github.com/cran/SurvHiDim

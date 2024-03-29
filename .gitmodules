@@ -11,6 +11,9 @@
 [submodule "SurvHiDim"]
 	path = SurvHiDim
 	url = https://github.com/cran/SurvHiDim
+[submodule "SurviMChd"]
+	path = SurviMChd
+	url = https://github.com/cran/SurviMChd
 [submodule "afthd"]
 	path = afthd
 	url = https://github.com/cran/afthd

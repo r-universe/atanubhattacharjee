@@ -5,6 +5,9 @@
 [submodule "ILRCM"]
 	path = ILRCM
 	url = https://github.com/cran/ILRCM
+[submodule "MIGEE"]
+	path = MIGEE
+	url = https://github.com/cran/MIGEE
 [submodule "MIIPW"]
 	path = MIIPW
 	url = https://github.com/cran/MIIPW

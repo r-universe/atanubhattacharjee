@@ -26,6 +26,9 @@
 [submodule "designsize"]
 	path = designsize
 	url = https://github.com/cran/designsize
+[submodule "dscoreMSM"]
+	path = dscoreMSM
+	url = https://github.com/cran/dscoreMSM
 [submodule "highMLR"]
 	path = highMLR
 	url = https://github.com/cran/highMLR

@@ -5,6 +5,9 @@
 [submodule "ILRCM"]
 	path = ILRCM
 	url = https://github.com/cran/ILRCM
+[submodule "JMbdirect"]
+	path = JMbdirect
+	url = https://github.com/cran/JMbdirect
 [submodule "MIGEE"]
 	path = MIGEE
 	url = https://github.com/cran/MIGEE

@@ -32,6 +32,9 @@
 [submodule "dscoreMSM"]
 	path = dscoreMSM
 	url = https://github.com/cran/dscoreMSM
+[submodule "flassomsm"]
+	path = flassomsm
+	url = https://github.com/cran/flassomsm
 [submodule "highMLR"]
 	path = highMLR
 	url = https://github.com/cran/highMLR

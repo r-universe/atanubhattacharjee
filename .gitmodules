@@ -41,6 +41,9 @@
 [submodule "jmBIG"]
 	path = jmBIG
 	url = https://github.com/cran/jmBIG
+[submodule "jmSurface"]
+	path = jmSurface
+	url = https://github.com/cran/jmSurface
 [submodule "longit"]
 	path = longit
 	url = https://github.com/cran/longit
